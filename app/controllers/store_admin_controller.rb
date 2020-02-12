@@ -2,6 +2,7 @@ class StoreAdminController < ApplicationController
   
   
   def admin
+    
   end
   
   def orders
